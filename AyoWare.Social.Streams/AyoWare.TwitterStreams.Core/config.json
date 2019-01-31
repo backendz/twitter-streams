@@ -1,0 +1,11 @@
+{
+  "Twitter": {
+    "ConsumerKey": "9HaeiY1CYqeWSkrXfs1Q",
+    "ConsumerSecret": "SWKH00XSLZvCnzYxm3hsiC9hZP1b5M2GYZL47VV8U",
+    "AccessToken": "191432879-vpOBkprG32x7HTyTQTWXmckfQTqsQ4YFZ5hhhnRq",
+    "AccessTokenSecret": "3RSMetAgR8p6OZog8EkVz8AoEKRPgzFTnI205hgrJtQuJ"
+  },
+  "AzureEventHub": {
+    "ConnectionString": "" 
+  } 
+}
